@@ -1,6 +1,6 @@
 # jpa01-AJP1012
 
-Deployed at: https://jpa01-ajp1012.dokku-04.cs.ucsb.edu
+Deployed at: https://jpa01-AJP1012.dokku-04.cs.ucsb.edu
 
 # About this repo
 
